@@ -105,5 +105,4 @@ By following these steps, you can effectively test your API endpoints using Post
 ## API Documentation:
 
 For detailed API documentation and usage instructions, refer to the https://docs.djangoproject.com/en/5.0/ and https://www.django-rest-framework.org/ file.
-```
 
